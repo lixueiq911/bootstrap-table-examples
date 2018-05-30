@@ -46,5 +46,5 @@ and post issue to: https://github.com/wenzhixin/bootstrap-table/issues, thanks!
 
 >注意
 一、如果直接下载 要[boostrap-table-examples] [bootstrap-table] [multiple-select] 一起都下载了，然后把[bootstrap-table] 解压放入`assets/bootstrap-table`中，[multiple-select]解压放入`assets/multiple-select`中去，
-二、`node app` 之后，会cmd中会出现```http://:::3000 ```切记，并非直接打开http://:::3000，需 先搭建本地环境，打开localhost，监听3000，正确打开是`localhost:3000`
+二、`node app` 之后，会cmd中会出现```http://:::3000 ```切记，并非直接打开http://:::3000，正确打开是`localhost:3000`
 
